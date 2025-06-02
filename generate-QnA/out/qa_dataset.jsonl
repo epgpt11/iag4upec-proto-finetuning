@@ -1,0 +1,10 @@
+{"instruction": "What is LangChain?", "input": "", "output": "LangChain is a framework for developing applications powered by large language models (LLMs)."}
+{"instruction": "How do I build a simple LLM application?", "input": "", "output": "Check out the \"Build a Simple LLM Application\" tutorial in the LangChain tutorials section."}
+{"instruction": "What are the key components of LangChain?", "input": "", "output": "LangChain consists of multiple open-source libraries, including langchain-core, langchain, langchain-community, and langgraph."}
+{"instruction": "How do I integrate LangChain with a specific provider?", "input": "", "output": "Check out the integrations page for a list of providers and their corresponding integration packages."}
+{"instruction": "What is LangGraph, and how is it related to LangChain?", "input": "", "output": "LangGraph is an orchestration framework that combines LangChain components into production-ready applications with persistence, streaming, and other key features."}
+{"instruction": "How do I evaluate and optimize my LangChain application?", "input": "", "output": "Use LangSmith to inspect, monitor, and evaluate your applications, and continuously optimize and deploy with confidence."}
+{"instruction": "What are the key concepts I need to know for LangChain?", "input": "", "output": "Check out the Conceptual Guide for high-level explanations of all LangChain concepts."}
+{"instruction": "How do I get started with LangChain?", "input": "", "output": "Start with the Tutorials section, which includes guides for building a simple LLM application, a chatbot, and an agent."}
+{"instruction": "What are the different ways to deploy my LangChain application?", "input": "", "output": "Turn your LangGraph applications into production-ready APIs and Assistants with LangGraph Platform."}
+{"instruction": "How can I contribute to the LangChain ecosystem?", "input": "", "output": "Check out the Contributing guide for guidelines on contributing and help getting your dev environment set up."}
